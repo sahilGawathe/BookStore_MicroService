@@ -1,0 +1,18 @@
+# Java/Maven
+**/target/
+**/build/
+**/.gradle/
+**/bin/
+**/out/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
